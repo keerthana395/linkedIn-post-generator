@@ -1,1 +1,1 @@
-"# linkedIn-post-generator" 
+"linkedIn-post-generator" 
